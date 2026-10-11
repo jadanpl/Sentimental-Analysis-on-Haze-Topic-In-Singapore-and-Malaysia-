@@ -6,8 +6,6 @@ A Python pipeline that collects public YouTube comments and Google Trends data a
 
 > Snapshot used for the example results below: comments and searches collected in October 2026, while search interest in haze was climbing to its highest point of the past 12 months in both countries.
 
-![Malaysia vs Singapore comparison](images/haze_comparison_malaysia_vs_singapore.png)
-
 ## Why this project
 
 Official monitoring tells us how bad the air is. It does not tell us how people experience it, what worries them, or who they blame. This project listens to the public conversation to answer questions such as:
